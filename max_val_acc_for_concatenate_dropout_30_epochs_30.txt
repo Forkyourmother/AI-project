@@ -1,0 +1,1 @@
+Maximum validation accuracy: 0.2277992278088167
